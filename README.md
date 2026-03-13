@@ -2,7 +2,7 @@ Spring Boot CRUD Application
 A RESTful CRUD API built with Spring Boot, PostgreSQL, and Docker
 
 Tech Stack
-TechnologyVersionJava21Spring Boot3.4.0Spring Data JPA3.4.0PostgreSQLLatestDockerLatestMaven3.x
+Technology/Version: Java21, Spring Boot3.4.0, Spring Data JPA3.4.0, PostgreSQLLatest, DockerLatest, Maven3.x
 
 Project Structure
 amigoscode/
